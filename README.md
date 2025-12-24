@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a passionate game developer who likes to show 
 
 [![Website](https://img.shields.io/badge/website-portfolio-blue?style=for-the-badge)](https://mrthris32ra.github.io)
 [![Twitter](https://img.shields.io/badge/x-@thriscode_dev-1DA1F2?style=for-the-badge)](https://x.com/intent/follow?screen_name=thriscode_dev)
-
+![](https://komarev.com/ghpvc/?username=mrthris32ra)
 
 ### About Me
 - 🔭 I’m currently building websites and sharing roblox experiences with a focus on performance.
@@ -27,5 +27,5 @@ My current focus is making some websites and testing experiments using JavaScrip
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrthris32ra&theme=github)
 ![Trophies Earned](https://github-profile-trophy.vercel.app/?username=mrthris32ra&theme=monokai&row=1&column=7)
 ---
-Follow me and I will follow back!
-Thanks for visiting my profile — feel free to browse my repositories and get in touch! ❤️
+
+Thanks for visiting my profile — feel free to browse my repositories and get in touch! 🫶❤️
