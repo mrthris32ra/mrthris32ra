@@ -16,7 +16,7 @@ My current focus is making some websites and testing experiments using JavaScrip
 
 ### Featured Projects
 
-- [PlezierGames](https://github.com/mrthris32ra/pleziergames) — A game website, based on the dutch word "plezier" meaning fun.
+- [PlezierGames](https://github.com/mrthris32ra/plzr-games) — A game website, based on the dutch word "plezier" meaning fun.
 - [Roblox Scripting](https://github.com/mrthris32ra/roblox-scripts) — Scripts used to activate in certain roblox games.
 
 
