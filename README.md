@@ -27,5 +27,5 @@ My current focus is making some websites and testing experiments using JavaScrip
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrthris32ra&theme=github)
 ![Trophies Earned](https://github-profile-trophy.vercel.app/?username=mrthris32ra&theme=monokai&row=1&column=7)
 ---
-Wanna collaborate with me? Follow me and I will follow back!
+Follow me and I will follow back!
 Thanks for visiting my profile — feel free to browse my repositories and get in touch! ❤️
