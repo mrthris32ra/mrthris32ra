@@ -16,12 +16,12 @@ My current focus is making some websites and testing experiments using JavaScrip
 
 ### Featured Projects
 
-- [PlezierGames](https://github.com/mrthris32ra/plzr-games) — A game website, based on the dutch word "plezier" meaning fun.
-- [Roblox Scripting](https://github.com/mrthris32ra/roblox-scripts) — Scripts used to activate in certain roblox games.
+- [**PlezierGames**](https://github.com/mrthris32ra/plzr-games) — A game website, based on the dutch word "plezier" meaning fun.
+- [**Roblox Scripting**](https://github.com/mrthris32ra/roblox-scripts) — Scripts used to activate in certain roblox games.
 
 ### Upcoming Projects
 
-- [Endless Math Tower Defense] — A JavaScript-based tower defense game where you do have to place some numbers as units.
+- **Endless Math Tower Defense** — A JavaScript-based tower defense game where you do have to place some numbers as units.
 
 
 ### GitHub Stats
