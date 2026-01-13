@@ -24,11 +24,7 @@ My current focus is making some websites and testing experiments using JavaScrip
 
 
 ### GitHub Stats
-![Mr. Thristan Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrthris32ra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrthris32ra&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrthris32ra&theme=radical)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrthris32ra&theme=github)
-![Trophies Earned](https://github-profile-trophy.vercel.app/?username=mrthris32ra&theme=monokai&row=1&column=7)
+![Mr. Thristan Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrthris32ra&show_icons=true&theme=radical]
 ---
 
 <a href="https://mastodon.social/mrthristanezra" cursor="pointer"><img width="175" height="50" alt="image" src="https://github.com/user-attachments/assets/0341c2e4-2816-4537-90af-5cd7b0502262" />
