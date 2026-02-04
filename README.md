@@ -6,7 +6,9 @@ Welcome to my GitHub profile! I'm a passionate game developer who likes to show 
 
 ### About Me
 - 🔭 I’m currently building websites and sharing roblox experiences with a focus on performance.
-- ⚡ Fun fact: I love automating repetitive tasks and turning them into reusable tools.
+- 💡 I mostly semi-active on GitHub, but I like to experience many things what I like.
+- ♙ My highest chess rating is 1128+
+- ⚡ Fun fact: AI can be used to help and learn programming for beginners.
 
 
 ### Current Focus
@@ -29,7 +31,7 @@ My current focus is making some websites and testing experiments using JavaScrip
 
 <a href="https://mastodon.social/mrthristanezra" cursor="pointer"><img width="175" height="50" alt="image" src="https://github.com/user-attachments/assets/0341c2e4-2816-4537-90af-5cd7b0502262" />
 </a>
-<a href="https://twitter.com/thriscode.dev" cursor="pointer"><img width="125" height="50" alt="image" src="https://github.com/user-attachments/assets/28c2a338-dd5f-4cc7-ad07-0accbfee3dc2" />
+<a href="https://twitter.com/thriscode_dev" cursor="pointer"><img width="125" height="50" alt="image" src="https://github.com/user-attachments/assets/28c2a338-dd5f-4cc7-ad07-0accbfee3dc2" />
 </a>
 <a href="https://twitch.tv/mrthristanezra" cursor="pointer"><img width="125" height="50" alt="image" src="https://github.com/user-attachments/assets/df173fe0-c4a5-48bf-a307-a0030e68a7b1" />
 
