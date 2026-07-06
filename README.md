@@ -1,5 +1,5 @@
 # Hiya, I'm Mr. Thristan Ezra! 👋
-Welcome to my GitHub profile! I'm a passionate game developer who likes to traveling, learning physics, creating experiments and play video games.
+Welcome to my GitHub profile! I'm a passionate game developer who likes to travel around the world, learning physics, creating experiments and play video games.
 
 <img width="1349" height="466" alt="image" src="https://github.com/user-attachments/assets/3de2c919-d53b-4138-b215-2a063c84a3e8" />
 
