@@ -24,10 +24,10 @@ I'm a passionate game developer who likes to travel around the world, learning p
 
 ---
 
-[![Facebook](https://img.shields.io/badge/Facebook-@mrthristanezra-0400FF?logo=mastodon&logoColor=white)](https://facebook.com/mrthristanezra)
-[![Bluesky](https://img.shields.io/badge/Twitter-@thriscode_dev-006AFF?logo=twitter&logoColor=white)](https://bsky.app/profile/mrthristanezra.bsky.social)
+[![Facebook](https://img.shields.io/badge/Facebook-@mrthristanezra-0400FF?logo=facebook&logoColor=white)](https://facebook.com/mrthristanezra)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@thriscode_dev-006AFF?logo=bluesky&logoColor=white)](https://bsky.app/profile/mrthristanezra.bsky.social)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@mrthristanezra-F700FF?logo=mastodon&logoColor=white)](https://mastodon.social/@mrthristanezra)
-[![Twitter](https://img.shields.io/badge/X/Twitter-@thriscode_dev-1DA1F2?logo=twitter&logoColor=white)](https://x.com/thriscode_dev)
+[![Twitter](https://img.shields.io/badge/X/Twitter-@thriscode_dev-1DA1F2?logo=x-twitter&logoColor=white)](https://x.com/thriscode_dev)
 [![Twitch](https://img.shields.io/badge/Twitch-@mrthristanezra-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/mrthristanezra)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@mrthristanezra)
 
