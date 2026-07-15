@@ -4,15 +4,11 @@ Welcome to my GitHub profile! I'm a passionate game developer who likes to trave
 <img width="1349" height="466" alt="image" src="https://github.com/user-attachments/assets/3de2c919-d53b-4138-b215-2a063c84a3e8" />
 
 
-### About Me
+### My Activity
 - 🔭 I’m currently building websites and sharing roblox experiences with a focus on performance.
 - 💡 I mostly semi-active on GitHub, but I like to experience many things what I like.
 - ♙ My highest chess rating is 1128+
 - ⚡ Fun fact: AI can be used to help and learn programming for beginners.
-
-
-### Current Focus
-My current focus is making some websites and testing experiments using JavaScript.
 
 
 ### Featured Projects
