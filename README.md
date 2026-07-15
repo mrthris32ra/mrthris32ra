@@ -17,12 +17,18 @@ I'm a passionate game developer who likes to travel around the world, learning p
 
 ### GitHub Stats
 ![Mr. Thristan Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrthris32ra&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mrthris32ra&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrthris32ra&layout=compact&theme=radical)
+
 ---
 
-<a href="https://mastodon.social/mrthristanezra" cursor="pointer"><img width="175" height="50" alt="image" src="https://github.com/user-attachments/assets/0341c2e4-2816-4537-90af-5cd7b0502262" />
-</a>
-<a href="https://twitter.com/thriscode_dev" cursor="pointer"><img width="125" height="50" alt="image" src="https://github.com/user-attachments/assets/28c2a338-dd5f-4cc7-ad07-0accbfee3dc2" />
-</a>
-<a href="https://twitch.tv/mrthristanezra" cursor="pointer"><img width="125" height="50" alt="image" src="https://github.com/user-attachments/assets/df173fe0-c4a5-48bf-a307-a0030e68a7b1" />
+[![Facebook](https://img.shields.io/badge/Facebook-@mrthristanezra-0400FF?logo=mastodon&logoColor=white)](https://facebook.com/mrthristanezra)
+[![Bluesky](https://img.shields.io/badge/Twitter-@thriscode_dev-006AFF?logo=twitter&logoColor=white)](https://bsky.app/profile/mrthristanezra.bsky.social)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@mrthristanezra-F700FF?logo=mastodon&logoColor=white)](https://mastodon.social/@mrthristanezra)
+[![Twitter](https://img.shields.io/badge/X/Twitter-@thriscode_dev-1DA1F2?logo=twitter&logoColor=white)](https://x.com/thriscode_dev)
+[![Twitch](https://img.shields.io/badge/Twitch-@mrthristanezra-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/mrthristanezra)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@mrthristanezra)
 
 </a>
