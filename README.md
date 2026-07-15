@@ -1,25 +1,19 @@
-# Hiya, I'm Mr. Thristan Ezra! 👋
-Welcome to my GitHub profile! I'm a passionate game developer who likes to travel around the world, learning physics, creating experiments and play video games.
+# Hey, What's up? 👋
+Welcome to my GitHub profile! 
 
 <img width="1349" height="466" alt="image" src="https://github.com/user-attachments/assets/3de2c919-d53b-4138-b215-2a063c84a3e8" />
 
+### About Me
+I'm a passionate game developer who likes to travel around the world, learning physics, creating experiments and play video games.
 
 ### My Activity
 - 🔭 I’m currently building websites and sharing roblox experiences with a focus on performance.
 - 💡 I mostly semi-active on GitHub, but I like to experience many things what I like.
-- ♙ My highest chess rating is 1128+
-- ⚡ Fun fact: AI can be used to help and learn programming for beginners.
-
 
 ### Featured Projects
 
 - [**PlezierGames**](https://github.com/mrthris32ra/plzr-games) — A game website, based on the dutch word "plezier" meaning fun.
 - [**Roblox Scripting**](https://github.com/mrthris32ra/roblox-scripts) — Scripts used to activate in certain roblox games.
-
-### Upcoming Projects
-
-- **Endless Math Tower Defense** — A JavaScript-based tower defense game where you do have to place some numbers as units. Currently in Beta! Will be fully released in 2027.
-
 
 ### GitHub Stats
 ![Mr. Thristan Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrthris32ra&show_icons=true&theme=radical)
@@ -32,6 +26,3 @@ Welcome to my GitHub profile! I'm a passionate game developer who likes to trave
 <a href="https://twitch.tv/mrthristanezra" cursor="pointer"><img width="125" height="50" alt="image" src="https://github.com/user-attachments/assets/df173fe0-c4a5-48bf-a307-a0030e68a7b1" />
 
 </a>
-
-
-Thanks for visiting my profile — feel free to browse my repositories and get in touch! 🫶❤️
